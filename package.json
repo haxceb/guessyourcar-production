@@ -1,5 +1,5 @@
 {
-  "name": "guessmycar",
+  "name": "create-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,6 +23,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "dev": "BROWSER=none react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
