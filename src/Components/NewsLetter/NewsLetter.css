@@ -1,0 +1,38 @@
+.newsletterdiv {
+	display: flex;
+	padding-top: 70px;
+	flex-direction: column;
+	background: url('https://apollotran.com/demo/at_estilo_demo/themes/at_estilo/assets/img/modules/appagebuilder/images/bg-newletter-h3.jpg');
+	box-sizing: border-box;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 300px;
+}
+
+.newsletterdiv > div > p {
+	font-size: 1.5rem;
+}
+
+.logos > ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	padding: 0%;
+}
+.logos > ul > li {
+	margin-top: 10px;
+	margin-left: 4px;
+}
+.logos > ul > li > a {
+	text-decoration: none;
+}
+.logos > ul > li {
+	margin-left: 4px;
+	border: 1px solid rgb(212, 208, 208);
+}
+.logos > ul > li:first-child {
+	margin-left: 0px;
+}
+.logos > ul > li:hover {
+	border: 1px solid rgb(156, 152, 152);
+}

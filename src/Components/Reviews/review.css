@@ -1,0 +1,12 @@
+.content {
+	color: rgba(0, 0, 0, 0.966);
+	background-color: white;
+	border-radius: 20px;
+	border-width: 20px;
+	border-color: black;
+	box-shadow: 4px 8px #69ceb4;
+	border: 0.1px solid black;
+	opacity: 0.8;
+	font-size: large;
+	font-weight: lighter;
+}
